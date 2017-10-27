@@ -8,21 +8,15 @@
   <packaging>jar</packaging>
 
   <name>1</name>
-  <url>
-	<scm>
-		<connection>scm:git:git@github.com:admin/Labo3_Soutien.git</connection>
-			<url>scm:git:git@github.com:admin/Labo3_Soutien.git</url>
-		<developerConnection>scm:git:git@github.com:admin/Labo3_Soutien.git</developerConnection>
-	</scm>
-  </url>
+  <url>http://maven.apache.org</url>
+  <scm>
+															<connection>scm:git:git@github.com:MrBGambal/Labo3_Soutien.git</connection>
+															<url>scm:git:git@github.com:MrBGambal/Labo3_Soutien.git</url>
+															<developerConnection>scm:git:git@github.com:MrBGambal/Labo3_Soutien.git</developerConnection>
+														</scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<scm>
-		<connection>scm:git:git@github.com:admin/Labo3_Soutien.git</connection>
-			<url>scm:git:git@github.com:admin/Labo3_Soutien.git</url>
-		<developerConnection>scm:git:git@github.com:admin/Labo3_Soutien.git</developerConnection>
-	</scm>
   </properties>
 
   <dependencies>
